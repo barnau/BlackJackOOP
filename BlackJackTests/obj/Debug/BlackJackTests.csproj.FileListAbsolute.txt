@@ -1,0 +1,7 @@
+C:\dev\BlackJack\BlackJackTests\bin\Debug\BlackJackTests.dll
+C:\dev\BlackJack\BlackJackTests\bin\Debug\BlackJackTests.pdb
+C:\dev\BlackJack\BlackJackTests\bin\Debug\BlackJack.exe
+C:\dev\BlackJack\BlackJackTests\bin\Debug\BlackJack.pdb
+C:\dev\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.csprojResolveAssemblyReference.cache
+C:\dev\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.dll
+C:\dev\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.pdb
